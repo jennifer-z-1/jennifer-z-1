@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi 👋 I'm Jennifer, an honors 4th year studying Management Information Systems 👩🏻‍🔧 and Computer Science👩🏻‍💻 at Temple University in Philadelphia, PA. 
+
+I specialize in market research, data science, and data engineering with experience in healthcare 🧬, finance/fintech 💰, and consumer goods 🛍️ among others. 
+
+Featured Projects Below:
+
+🌱 [DXC Technology] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [DXC Technology] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/jennifer-z-1/DXC_Tech_1A]
 <!--
 **jennifer-z-1/jennifer-z-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
